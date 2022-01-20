@@ -1,0 +1,14 @@
+# Log file
+
+*.log
+
+
+
+# IDEA
+
+.venv/
+
+.idea/
+
+*.iml
+
